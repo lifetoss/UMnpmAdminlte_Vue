@@ -1,0 +1,11 @@
+validation
+Add
+Show
+sweet alert
+progress bar
+filter for text and 
+moment for date
+refresh
+update 
+delete
+api
